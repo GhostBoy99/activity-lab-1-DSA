@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+	
+	int choice;
+	cout << "Choose what you want to find\n";
+
+	cout<<"1. Principal\n2. Interest Rate\m3. Term of Loan\n4. Interest\n5. Maturity Value\n";
+	cin >> choice;	
+	
+	
+	return 0;
+}
